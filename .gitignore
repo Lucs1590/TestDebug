@@ -1,0 +1,6 @@
+ENV/
+**.py[cod]
+.*
+!.gitignore
+!.jarvas.yml
+htmlcov/
