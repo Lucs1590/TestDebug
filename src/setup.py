@@ -7,9 +7,9 @@ def read(file_name):
 
 setup(
     name='debugdamassa_briton',
-    version='0.0.1',
+    version='0.0.2',
     description='Fatec CI/CD Example',
-    long_description=read('../README.md'),
+    # long_description=read('../README.md'),
     url='https://github.com/Lucs1590/TestDebug',
     download_url='https://github.com/Lucs1590/TestDebug',
     license='BSD',
