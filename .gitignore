@@ -2,5 +2,5 @@ ENV/
 **.py[cod]
 .*
 !.gitignore
-!.jarvas.yml
+!.travis.yml
 htmlcov/
